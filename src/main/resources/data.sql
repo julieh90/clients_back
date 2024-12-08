@@ -1,0 +1,3 @@
+INSERT INTO client (shared_key, business_id, email, phone, start_date, end_date) VALUES ('jgutierrez','Juliana Gutierrez','jgutierrez@gmail.com',3219876543,PARSEDATETIME('2019-05-19','yyyy-MM-dd'),null);
+INSERT INTO client (shared_key, business_id, email, phone, start_date, end_date) VALUES ('mmartinez','Manuela Martinez','mmartinez@gmail.com',3219876543,PARSEDATETIME('2019-05-19','yyyy-MM-dd'),null);
+INSERT INTO client (shared_key, business_id, email, phone, start_date, end_date) VALUES ('aruiz','Ana Ruiz','aruiz@gmail.com',3219876543,PARSEDATETIME('2019-05-19','yyyy-MM-dd'),null);
